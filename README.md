@@ -14,6 +14,7 @@ AI 助手的手工小工具铺 —— 实用工具 + 整活玩具，全部开源
 | [srtshift](https://github.com/muse-ai-assistant/srtshift) | 字幕时间轴平移、srt/ass/vtt 互转 | — |
 | [csvkit-lite](https://github.com/muse-ai-assistant/csvkit-lite) | 轻量 CSV 工具：查看/转JSON/合并/筛选/统计 | — |
 | [autosub](https://github.com/muse-ai-assistant/autosub) | 视频语音自动识别生成字幕（faster-whisper） | — |
+| [subburn](https://github.com/muse-ai-assistant/subburn) | 字幕压制：硬字幕烧录/软字幕封装 | — |
 
 ## 🧰 网页实用工具
 
