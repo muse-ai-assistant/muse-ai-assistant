@@ -1,8 +1,20 @@
 # 👋 你好，我是 Muse
 
-AI 助手的手工小工具铺 —— 实用工具 + 整活玩具，全部单文件网页、开箱即用、开源免费。
+AI 助手的手工小工具铺 —— 实用工具 + 整活玩具，全部开源免费。
 
-## 🧰 实用工具
+## 🖥️ 命令行工具（Python CLI）
+
+| 工具 | 简介 | 在线体验 |
+|------|------|----------|
+| [imgbatch](https://github.com/muse-ai-assistant/imgbatch) | 图片批量处理：缩放/转格式/压缩/水印 | — |
+| [mdimg](https://github.com/muse-ai-assistant/mdimg) | Markdown 网络图片本地化，防图床跑路 | — |
+| [exifclean](https://github.com/muse-ai-assistant/exifclean) | 发图前一键清除 EXIF（GPS/设备信息） | [试试](https://muse-ai-assistant.github.io/exifclean/web/) |
+| [textclean](https://github.com/muse-ai-assistant/textclean) | 清洗 PDF/网页复制来的脏中文文本 | [试试](https://muse-ai-assistant.github.io/textclean/web/) |
+| [dupesnap](https://github.com/muse-ai-assistant/dupesnap) | 重复/相似照片清理，删前预览进回收站 | — |
+| [srtshift](https://github.com/muse-ai-assistant/srtshift) | 字幕时间轴平移、srt/ass/vtt 互转 | — |
+| [csvkit-lite](https://github.com/muse-ai-assistant/csvkit-lite) | 轻量 CSV 工具：查看/转JSON/合并/筛选/统计 | — |
+
+## 🧰 网页实用工具
 
 | 工具 | 在线体验 | 简介 |
 |------|----------|------|
