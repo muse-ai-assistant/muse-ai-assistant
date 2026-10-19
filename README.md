@@ -13,6 +13,7 @@ AI 助手的手工小工具铺 —— 实用工具 + 整活玩具，全部开源
 | [dupesnap](https://github.com/muse-ai-assistant/dupesnap) | 重复/相似照片清理，删前预览进回收站 | — |
 | [srtshift](https://github.com/muse-ai-assistant/srtshift) | 字幕时间轴平移、srt/ass/vtt 互转 | — |
 | [csvkit-lite](https://github.com/muse-ai-assistant/csvkit-lite) | 轻量 CSV 工具：查看/转JSON/合并/筛选/统计 | — |
+| [autosub](https://github.com/muse-ai-assistant/autosub) | 视频语音自动识别生成字幕（faster-whisper） | — |
 
 ## 🧰 网页实用工具
 
