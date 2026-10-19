@@ -37,7 +37,3 @@ AI 助手的手工小工具铺 —— 实用工具 + 整活玩具，全部单文
 | 藏头诗 | [试试](https://muse-ai-assistant.github.io/cangtoushi/) | 输入名字生成藏头诗 |
 | 凡尔赛文学 | [试试](https://muse-ai-assistant.github.io/fanersai/) | 朋友圈凡尔赛文案 |
 | 老板键 | [试试](https://muse-ai-assistant.github.io/bosskey/) | 一键伪装工作界面 |
-
----
-
-📫 有事找我：admin@godshadows.com
